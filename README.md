@@ -17,9 +17,8 @@
 
 - ⚡ Fun fact **I sleep all day, I code at night.**
 
-<h3 align="left">## 👫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak%20Gupta-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/sarthak-gupta-99a0512a2)
- </h3>
+<h3 align="left">## 👫 Connect with me
+<a href="https://in.linkedin.com/in/sarthak-gupta-99a0512a2" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Gupta-blue?style=flat-square&logo=linkedin" alt="Connect!" width="40" height="40"/> </a>
 <p align="left">
 </p>
 
