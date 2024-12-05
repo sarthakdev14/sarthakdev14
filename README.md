@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
 <h3 align="center">2nd year AI undergrad @Bangalore Institute of technology</h3>
 
-- 🔭 I’m currently working on **Java backend.**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **frontend development**
 
-- 👯 I’m looking to collaborate on **Java backend.**
+- 👯 I’m looking to collaborate on **Java backend**
 
-- 🤝 I’m looking for help with **Java backend.**
+- 🤝 I’m looking for help with **designing frontends**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in](linkedin.com/in)
+- 👨‍💻 All of my projects are available here!
 
-- 💬 Ask me about **Java backend.**
+- 💬 Ask me about **Data Structures in Java!**
 
 - 📫 How to reach me **aries.sarthakgupta@gmail.com**
 
-- ⚡ Fun fact **I sleep all day.**
+- ⚡ Fun fact **I sleep all day, I code at night.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">## 👫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak%20Gupta-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/sarthak-gupta-99a0512a2)
+ </h3>
 <p align="left">
 </p>
 
