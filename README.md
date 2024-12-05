@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
 <h3 align="center">2nd year AI undergrad @Bangalore Institute of technology</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java.**
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **Frontend development.**
 
-- 👯 I’m looking to collaborate on **Java backend**
+- 👯 I’m looking to collaborate on **Java backend.**
 
-- 🤝 I’m looking for help with **designing frontends**
+- 🤝 I’m looking for help with **designing front-ends.**
 
 - 👨‍💻 All of my projects are available here!
 
