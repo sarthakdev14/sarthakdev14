@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend development.**
 
-- 👯 I’m looking to collaborate on **Java backend.**
+- 👯 I’m looking to collaborate on **MERN Stack Development.**
 
 - 🤝 I’m looking for help with **designing front-ends.**
 
